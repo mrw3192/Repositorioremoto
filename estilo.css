@@ -1,0 +1,22 @@
+.caja1{ margin:auto;
+        border: darkkhaki;
+        background-color: coral;
+        width:300px;
+        height:150px;
+        padding:10px;}
+
+
+.caja2{ 
+        border: darkkhaki;
+        background-color: cornflowerblue;
+        width:300px;
+        height:150px;
+        padding:10px;}
+
+.caja3{
+        border: darkkhaki;
+        background-color: darkseagreen;
+        width:300px;
+        height:150px;
+        padding:10px;
+}
